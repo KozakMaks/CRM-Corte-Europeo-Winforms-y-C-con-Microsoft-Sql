@@ -15,7 +15,7 @@ Instalación y Configuración
 Clonar el Repositorio:
 bash
 Copy
-git clone https://github.com/tuusuario/ElCorteEuropeo.git
+git clone https://github.com/KozakMaks/ElCorteEuropeo.git
 Configurar la Base de Datos:
 Ajusta la cadena de conexión en el archivo de configuración para vincularlo a tu instancia de Microsoft SQL Server.
 Compilar el Proyecto:
