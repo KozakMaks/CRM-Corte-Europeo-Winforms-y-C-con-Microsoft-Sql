@@ -22,3 +22,5 @@ Compilar el Proyecto:
 Abre la solución en Visual Studio y compílala.
 Ejecutar la Aplicación:
 Inicia la aplicación y comienza a gestionar tus clientes y ventas de manera centralizada.
+![image](https://github.com/user-attachments/assets/545c8b55-ec17-455b-a50f-9f88a928b2a1)
+
